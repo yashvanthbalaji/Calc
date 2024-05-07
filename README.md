@@ -80,9 +80,11 @@ calc.html
 
     <script src="index.js"></script>
 </body>
-</html>```
+</html>
+```
 index.js
-```let screen = document.getElementById('screen');
+```
+let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
 let screenValue = '';
 for (item of buttons) {
@@ -106,9 +108,11 @@ for (item of buttons) {
             screen.value = screenValue;
         }
     })
-}```
+}
+```
 style.css
-```.container {
+```
+.container {
     text-align: center;
     margin-top: 25px;
 }
@@ -161,11 +165,12 @@ button {
 
 .color {
     color: rgb(1, 10, 36);
-}```
+}
+```
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot (85)-1.png>)
+![alt text](<Screenshot (86).png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
-![alt text](<Screenshot (86).png>)
