@@ -165,7 +165,7 @@ button {
 
 
 ## OUTPUT:
-![alt text](<Screenshot (85).png>)
-![alt text](<Screenshot (86).png>)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
+![alt text](<Screenshot (86).png>)
